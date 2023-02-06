@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Demo {
     
     public static void main(String [] args){
-       
+        System.out.println("hi rahat");
         /*System.out.println("Enter any size...");
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
